@@ -6,7 +6,7 @@
 $ yarn dev
 ```
 
-`localhost:3000' でアクセス
+`localhost:3000` でアクセス
 
 ## ビルド方法
 
