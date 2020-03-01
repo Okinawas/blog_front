@@ -1,2 +1,17 @@
-##blog_front
-blog_apiのフロント周りを担当 
+# ブログアプリのフロント
+
+## サーバ起動
+
+```bash
+$ yarn dev
+```
+
+`localhost:3000' でアクセス
+
+## ビルド方法
+
+``` bash
+$ yarn build
+$ yarn start
+```
+
